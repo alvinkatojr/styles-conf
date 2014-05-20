@@ -57,3 +57,9 @@ Grid
 	--webkit-box-sizing: border-box;
 	--moz-box-sizing: border-box;
 }
+
+.container {
+	width: 960px;
+	padding 0px 30px;
+	margin: 0 auto;
+}
