@@ -135,3 +135,13 @@ Primary header
 .hero {
   padding: 22px 80px 66px 80px;
 }
+
+
+/* 
+==========================================
+Primary footer
+==========================================
+*/
+.primary-footer small {
+  float: left;
+}
