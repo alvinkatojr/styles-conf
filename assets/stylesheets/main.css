@@ -61,11 +61,15 @@ table {
           box-sizing: border-box;
 }
 
-.container {
+.container,
+.grid {
   margin: 0 auto;
+  width: 960px;
+}
+
+.container {
   padding-left: 30px;
   padding-right: 30px;
-  width: 960px;
 }
 
 .col-1-3 {
