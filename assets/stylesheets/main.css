@@ -93,6 +93,11 @@ table {
   padding-right: 15px;
 }
 
+
+section .col-1-3 {
+  margin-right: -4px;
+}
+
 /* 
 ============================================
 Clearfix
