@@ -244,10 +244,6 @@ a {
 */
 
 .hero {
-  padding: 22px 80px 66px 80px;
-}
-
-.hero h2 {
   line-height: 44px;
   padding: 22px 80px 66px 80px;
 }
