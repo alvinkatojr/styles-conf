@@ -176,6 +176,7 @@ strong {
 cite, em {
   font-style: italic;
 }
+
 /* 
 ==========================================
 Primary header
@@ -203,6 +204,20 @@ Primary header
 .btn-alt {
   border: 1px solid #dfe2e5;
   padding: 10px 30px;
+}
+
+/* 
+  ========================================
+  Links
+  ========================================
+*/
+
+a:hover {
+  color: #a9b2b9;
+}
+
+a {
+  color: #648880;
 }
 
 /*
