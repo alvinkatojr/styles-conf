@@ -118,7 +118,7 @@ Rows
 ============================================
 */
 
-.row, 
+.row,
 .row-alt {
   min-width: 960px;
 }
@@ -128,13 +128,25 @@ Rows
   padding: 66px 0 44px 0;
 }
 
+/*
 .row-alt {
   background: #cbe2c1;
   background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
-  background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
-  background: linear-gradient(to right, #a1d3b0, #f6f1d3)
+  background:    -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+  background:         linear-gradient(to right, #a1d3b0, #f6f1d3)
   padding: 44px 0 22px 0;
 }
+*/
+
+.row-alt {
+  background: #cbe2c1;
+  background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
+  background:    -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+  background:         linear-gradient(to right, #a1d3b0, #f6f1d3);
+  padding: 44px 0 22px 0;
+}
+
+
 /* 
 ============================================
 Clearfix
@@ -263,33 +275,6 @@ Leads
   text-transform: uppercase;
 }
 
-/*
-  ========================================
-  Buttons
-  ========================================
-*/
-
-.btn {
-  border-radius: 5px;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-weight: 400;
-  letter-spacing: .5px;
-  margin: 0;
-  text-transform: uppercase;
-}
-
-.btn-alt {
-  border: 1px solid #dfe2e5;
-  padding: 10px 30px;
-}
-
-.btn-alt:hover {
-  background: #fff;
-  color: #648880;
-}
-
 /* 
   ========================================
   Links
@@ -322,6 +307,34 @@ p a {
 .primary-footer a:hover {
   color: #648880;
 }
+
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn {
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  letter-spacing: .5px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.btn-alt {
+  border: 1px solid #dfe2e5;
+  padding: 10px 30px;
+}
+
+.btn-alt:hover {
+  background: #fff;
+  color: #648880;
+}
+
 /*
   ========================================
   Home
