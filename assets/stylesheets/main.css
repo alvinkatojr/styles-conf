@@ -240,6 +240,10 @@ Leads
   text-align: right;
 }
 
+nav ul li {
+  display: inline-block;
+}
+
 /* 
  ==========================================
  Primary header
