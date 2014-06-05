@@ -106,9 +106,9 @@ body {
 }
 
 /* 
-============================================
-Rows
-============================================
+ ============================================
+ Rows
+ ============================================
 */
 
 .row,
@@ -120,16 +120,6 @@ Rows
   background: #fff;
   padding: 66px 0 44px 0;
 }
-
-/*
-.row-alt {
-  background: #cbe2c1;
-  background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
-  background:    -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
-  background:         linear-gradient(to right, #a1d3b0, #f6f1d3)
-  padding: 44px 0 22px 0;
-}
-*/
 
 .row-alt {
   background: #cbe2c1;
@@ -152,9 +142,9 @@ Rows
 }
 
 /* 
-============================================
+ ============================================
 Clearfix
-============================================
+ ============================================
 */
 
 .group:before,
