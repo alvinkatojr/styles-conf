@@ -58,12 +58,10 @@ body {
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-
-
 /*
-========================================
-Grid
-========================================
+ ========================================
+ Grid
+ ========================================
 */
 
 *,
@@ -240,15 +238,6 @@ Leads
   text-align: right;
 }
 
-.nav li {
-  display: inline-block;
-  margin: 0 10px;
-  vertical-align: top;
-}
-
-.nav li:last-child {
-  margin-right: 0;
-}
 
 /* 
  ==========================================
