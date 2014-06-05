@@ -148,16 +148,16 @@ Clearfix
 */
 
 .group:before,
-.group:after{
+.group:after {
   content: "";
   display: table;
 }
 
-.group:after{
+.group:after {
   clear: both;
 }
 
-.group{
+.group {
   clear:both;
   *zoom: 1;
 }
