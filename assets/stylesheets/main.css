@@ -52,6 +52,7 @@ table {
   Custom Styles 
   ==========================================
 */
+
 body {
   background: #293f50;
   color: #888;
@@ -104,12 +105,6 @@ body {
   padding-right: 15px;
 }
 
-/* removes the white spaces between columms displayed inline */ 
-
-.spacer {
-  margin-right: -4px;
-}
-
 /* 
 ============================================
 Rows
@@ -144,6 +139,17 @@ Rows
   padding: 44px 0 22px 0;
 }
 
+/* 
+ ===========================================
+ Columns
+ ===========================================
+*/
+
+/* removes the white spaces between columms displayed inline */ 
+
+.spacer {
+  margin-right: -4px;
+}
 
 /* 
 ============================================
