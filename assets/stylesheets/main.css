@@ -240,6 +240,10 @@ cite, em {
   vertical-align: top;
 }
 
+.nav li:last-child {
+  margin-right: 0;
+}
+
 /* 
  ==========================================
  Primary header
