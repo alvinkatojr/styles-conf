@@ -392,6 +392,13 @@ p a {
  ===========================================
 */
 
+.speaker-info img {
+  broder-radius: 50%;
+  height: 130px;
+  margin: -66px 0 22px 0;
+  vertical-align: top;
+}
+
 .speaker-info {
   border: 1px solid #dfe2e5;
   border-radius: 5px;
