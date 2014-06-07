@@ -425,4 +425,6 @@ p a {
   margin-bottom: 22px;
  }
 
- 
+.venue-map {
+  height: 264px;
+}
