@@ -393,7 +393,7 @@ p a {
 */
 
 .speaker-info img {
-  broder-radius: 50%;
+  border-radius: 50%;
   height: 130px;
   margin: -66px 0 22px 0;
   vertical-align: top;
