@@ -341,6 +341,7 @@ p a {
 
 .btn-default {
   border: 0;
+  border-radius: 0px;
   background: #648880;
   padding: 11px 30px;
   font-size: 14px;
