@@ -441,6 +441,11 @@ td {
   vertical-align: top;
 }
 
+th {
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+}
 
 
 /*
