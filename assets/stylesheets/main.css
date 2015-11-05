@@ -68,7 +68,7 @@ body {
 *,
 *:before,
 *:after {
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 
 .container,
@@ -419,6 +419,13 @@ p a {
 .speaker {
   margin-bottom: 44px;
 }
+
+/*
+ =============================================
+ Schedule
+ =============================================
+*/
+
 
 /*
  =============================================
