@@ -468,6 +468,11 @@ tbody th {
   text-transform: uppercase;
 }
 
+tbody td {
+  border: 1px solid #dfe2e5;
+  padding-top: 21px;
+}
+
 /*
  =============================================
  Venue
